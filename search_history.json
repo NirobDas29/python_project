@@ -1,0 +1,82 @@
+[
+  {
+    "command": "জোকস",
+    "response": "Python শিখছি। এখন পর্যন্ত শুধু শিখেছি কীভাবে error বার্তা পড়তে হয়।",
+    "time": "2026-05-05 20:36:06"
+  },
+  {
+    "command": "জোকস",
+    "response": "একটা মাছ বলেছে অন্য মাছকে — তুমি কী করো? অন্য মাছ বলেছে — আমি অনলাইনে সময় কাটাই। জানো তো, মাছেরা সবসময় নেট এ থাকি।",
+    "time": "2026-05-05 20:37:14"
+  },
+  {
+    "command": "date",
+    "response": "Today is Tuesday, May 05, 2026.",
+    "time": "2026-05-05 20:38:15"
+  },
+  {
+    "command": "what date",
+    "response": "Today is Tuesday, May 05, 2026.",
+    "time": "2026-05-05 20:38:27"
+  },
+  {
+    "command": "jokes",
+    "response": "A SQL query walks into a bar, walks up to two tables and asks — Can I join you?",
+    "time": "2026-05-05 20:39:06"
+  },
+  {
+    "command": "tailor joke",
+    "response": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+    "time": "2026-05-05 20:39:44"
+  },
+  {
+    "command": "what is the time now",
+    "response": "The current time is 8:40 PM.",
+    "time": "2026-05-05 20:40:42"
+  },
+  {
+    "command": "add music",
+    "response": "Format: \"add music bohemian link https://youtube.com/...\"",
+    "time": "2026-05-05 20:41:25"
+  },
+  {
+    "command": "add website",
+    "response": "Format: \"add website youtube link https://youtube.com\"",
+    "time": "2026-05-05 20:41:58"
+  },
+  {
+    "command": "play song music",
+    "response": "\"song music\" not found. Available: bohemian, shape of you, jhon cena, john cena, soulmate, attention, facebook, sonar bangla, starboy",
+    "time": "2026-05-05 20:43:29"
+  },
+  {
+    "command": "Bangla",
+    "response": "ভাষা বাংলায় পরিবর্তিত হয়েছে।",
+    "time": "2026-05-05 20:44:21"
+  },
+  {
+    "command": "বহি মিন বাজাও",
+    "response": "এটা আমি বুঝতে পারছি না। \"সাহায্য\" বলুন দেখুন কী করতে পার।",
+    "time": "2026-05-05 20:44:45"
+  },
+  {
+    "command": "গান বাজাও",
+    "response": "\"bohemian\" বাজাচ্ছি।",
+    "time": "2026-05-05 20:45:34"
+  },
+  {
+    "command": "কাজ যোগ করো বই পড়া",
+    "response": "কাজ যোগ করা হয়েছে: \"বই পড়া\"",
+    "time": "2026-05-05 21:36:03"
+  },
+  {
+    "command": "কাজের তালিকা",
+    "response": "আপনার কাজের তালিকা:\n  ⬜ 1. jarvis\n  ⬜ 2. personal\n  ⬜ 3. বই পড়া\n",
+    "time": "2026-05-05 21:36:28"
+  },
+  {
+    "command": "কাজের তালিকা",
+    "response": "আপনার কাজের তালিকা:\n  ⬜ 1. jarvis\n  ⬜ 2. personal\n  ⬜ 3. বই পড়া\n",
+    "time": "2026-05-06 08:11:42"
+  }
+]
